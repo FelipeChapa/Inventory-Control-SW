@@ -1,3 +1,2 @@
 # Ignore documentation pdf files
-$ cat Documentation/.gitignore
 *.pdf 
