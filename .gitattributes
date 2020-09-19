@@ -1,1 +1,2 @@
 # Ignore documentation 
+Product/**.html linguist-detectable=false
