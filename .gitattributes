@@ -1,2 +1,4 @@
 # Ignore documentation 
-Product/**/*.html linguist-detectable=false
+*.html linguist-detectable=false
+*.java linguist-detectable=true
+*.css linguist-detectable=true
